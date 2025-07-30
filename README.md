@@ -1,6 +1,6 @@
 You will find the English ReadMe at the end of the document.
 
-# calliope-edu/pxt-display
+# Display-Erweiterung für MakeCode
 
 MakeCode‑Erweiterung für den Calliope mini, die erweiterte Display-Funktionen über die integrierte LED-Matrix bietet (Pixel, Helligkeit, Animation usw.).
 
