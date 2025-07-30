@@ -79,7 +79,7 @@ Dynamisches Anzeigen eines Punktes z. B. als Cursor oder Roboterposition
 
 
 
-# calliope-edu/pxt-display
+# Display extension for MakeCode
 
 MakeCode extension for the Calliope mini that provides advanced display functions using the built-in 5×5 LED matrix — including pixel control, brightness, animation, and more.
 
